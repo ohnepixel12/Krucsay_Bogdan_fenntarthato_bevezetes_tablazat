@@ -31,7 +31,7 @@ Kik férnek hozzá, és kinek változik a mindennapja?
 Gazdaság
 Mihez kell pénz, munka vagy fenntartás?
 
-Döntések az iskolában
+
 Négy példa arra, hogyan kapcsolódnak össze a hatások.
 
 4 döntés · 3 szempont
