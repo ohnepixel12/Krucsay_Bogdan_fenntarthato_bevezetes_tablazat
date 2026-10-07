@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+
+table{
+    margin: auto;
+    width: 60%;
+    border-collapse: collapse;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: auto;
+}
+
+table, th, td{
+border: 1px solid black;
+
+}
+
+caption{
+    text-align: left;
+    border: 1px solid black;
+}
+
+th{
+    background-color: #145c4e;;
+    color: #fff;
+    text-align:left ;
+}
+
+td{
+    color: #18352f;
+}
+
+.egyes{
+    font-weight: bold;
+}
+
+tr{
+    max-width: 100%;
+}
