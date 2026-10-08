@@ -15,7 +15,7 @@ Amennyiben a táblázat elkészült, készítsd el az alap oldalt és helyezd el
 ### Szöveg
 
 ✳ Zöld döntések
-Ugrás a táblázathoz ↓
+
 Fenntarthatóbb iskola · HTML-táblázat minta
 
 Egy döntés.

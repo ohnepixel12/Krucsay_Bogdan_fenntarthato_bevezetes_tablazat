@@ -3,14 +3,14 @@
 }
 
 table{
-    margin: auto;
-    width: 60%;
+    width: 70%;
     border-collapse: collapse;
 }
 
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: auto;
+    max-width: 1000px;
 }
 
 table, th, td{
@@ -39,4 +39,8 @@ td{
 
 tr{
     max-width: 100%;
+}
+
+main{
+    background-color:#dce6db;
 }
